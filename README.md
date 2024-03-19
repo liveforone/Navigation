@@ -6,4 +6,5 @@
 
 ## 프로젝트
 * [React-Nest 풀스택 예제](https://github.com/liveforone/node-fullstack)
+* [fastify-prisma](https://github.com/liveforone/fastify-prisma-example)
 * [향후 프로젝트 기록](https://github.com/liveforone/future-project)
