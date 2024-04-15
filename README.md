@@ -10,4 +10,4 @@
 * [향후 프로젝트 기록](https://github.com/liveforone/future-project)
 
 ## 보일러 플레이트
-* [보일러플레이트](https://github.com/liveforone/chan-spring)
+* [chan-spring](https://github.com/liveforone/chan-spring)
