@@ -6,7 +6,6 @@
 * [git, spring, db](https://github.com/liveforone/study)
 
 ## 보일러 플레이트
-* [chan-spring](https://github.com/liveforone/chan-spring)
 * [chan-node](https://github.com/liveforone/chan-node)
 
 ## Todo
