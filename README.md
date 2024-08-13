@@ -10,5 +10,5 @@
 
 ## Todo
 * [향후 할일(계획)](https://github.com/liveforone/future-plan)
-* [향후 프로젝트 기록](https://github.com/liveforone/future-plan/blob/main/project/future-project.md)
+* [프로젝트 아이디어 및 프로젝트 중요점](https://github.com/liveforone/future-plan/blob/main/project/project-ideas.md)
 * [비즈니스 계획](https://github.com/liveforone/future-plan/blob/main/business/business-plan.md)
